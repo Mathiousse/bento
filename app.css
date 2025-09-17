@@ -7,7 +7,11 @@
 /* V A R I A B L E S */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url("https://mathieucapon.site/RealPerfectDOSVGA437.ttf");
 
+* {
+  font-family: "Real Perfect DOS VGA 437" !important;
+}
 :root {
   /* Font Size */
   --fg-primary: 12vh; /* Time and Greetings */
